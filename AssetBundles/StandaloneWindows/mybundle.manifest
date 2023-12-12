@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3330239126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4da040ad115b86aa6fa1e970181b97d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ntoes.shader
+Dependencies: []

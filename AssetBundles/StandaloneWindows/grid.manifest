@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3217996047
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 796cea0557c0e31d9ad0117cddeec27e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Grid.shader
+Dependencies: []

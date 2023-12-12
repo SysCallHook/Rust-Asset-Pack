@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4144935221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa27fb9e1cf2ed1ee8f62acf5353866f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/XRay.shader
+Dependencies: []
